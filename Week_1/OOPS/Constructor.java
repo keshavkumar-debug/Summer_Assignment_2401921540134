@@ -12,7 +12,7 @@ class Student {
     }
 }
 
-public class StudentData {
+public class Constructor {
     public static void main(String[] args) {
         Student s1 = new Student(134, "Keshav");
         s1.display();
